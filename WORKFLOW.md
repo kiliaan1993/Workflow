@@ -23,8 +23,8 @@ Screenshot 2
 
 1. Bild im Projektordner speichern (ohne .jpg, einfach nur z.B. Bildname)
 1. mit Notepad++ folgendes Kommando geben: !(Titel des Bildes)[Bildname.JPG]
-1. mit Git GUI Programm Rescan und dann alles Committen (siehe Screenshot 3)
-![Beispielbild](Bildbeispiel.JPG)
+1. mit Git GUI Programm Rescan und dann alles Committen (siehe Screenshot 3), dann erst Pushen
+![Beispielbild](Bildbeispiel1.JPG)
 Beispielbild
 
 ![Screenshot 3](Screenshot3.JPG)
