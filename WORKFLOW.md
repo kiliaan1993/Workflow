@@ -6,4 +6,4 @@
 1. Datei in diesen Ordner mit Notepad++ legen, Name = WORKFLOW.md
 1. Auf Rescan drücken (siehe Screenshot 1)
 
-![Screenshot 1](Screenshot1.jpg)
+![Screenshot 1](Screenshot1.JPG)
