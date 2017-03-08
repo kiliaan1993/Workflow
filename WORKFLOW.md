@@ -29,3 +29,11 @@ Beispielbild
 
 ![Screenshot 3](Screenshot3.JPG)
 Screenshot 3
+
+## Link vom Bild hochladen:
+
+1. Linkadresse kopieren
+1. Quelle angeben: Quelle:[Fly me to the Moon](Linkadresse)
+
+![Beispielbild](Bildbeispiel10.jpg)
+Quelle:[Fly me to the Moon](http://www.kiteworldmag.com/video/fly-me-to-the-moon-nick-jacobsen/)
